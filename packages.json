@@ -3,7 +3,7 @@
 	"schema_version": "3.0.0",
 	"packages": [
 		{
-			"name": "GoToTest",
+			"name": "GoToTest-guille",
 			"details": "https://github.com/guille/GoToTest",
 			"releases": [
 				{
@@ -13,7 +13,7 @@
 			]
 		},
 		{
-			"name": "Elixir",
+			"name": "Elixir-guille",
 			"details": "https://github.com/guille/elixir-sublime-syntax",
 			"releases": [
 				{
