@@ -11,6 +11,16 @@
 					"tags": true
 				}
 			]
+		},
+		{
+			"name": "Elixir",
+			"details": "https://github.com/guille/elixir-sublime-syntax",
+			"releases": [
+				{
+					"sublime_text": ">=4000",
+					"tags": true
+				}
+			]
 		}
 	]
 }
