@@ -21,6 +21,16 @@
 					"tags": true
 				}
 			]
+		},
+		{
+			"name": "Helm-guille",
+			"details": "https://github.com/guille/sublime-helm",
+			"releases": [
+				{
+					"sublime_text": ">=4000",
+					"tags": true
+				}
+			]
 		}
 	]
 }
