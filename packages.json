@@ -3,8 +3,8 @@
 	"schema_version": "3.0.0",
 	"packages": [
 		{
-			"name": "GoToTest-guille",
-			"details": "https://github.com/guille/GoToTest",
+			"name": "Dart-guille",
+			"details": "https://github.com/guille/sublime-dart",
 			"releases": [
 				{
 					"sublime_text": ">=4000",
@@ -23,6 +23,16 @@
 			]
 		},
 		{
+			"name": "GoToTest-guille",
+			"details": "https://github.com/guille/GoToTest",
+			"releases": [
+				{
+					"sublime_text": ">=4000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Helm-guille",
 			"details": "https://github.com/guille/sublime-helm",
 			"releases": [
@@ -33,8 +43,8 @@
 			]
 		},
 		{
-			"name": "Dart-guille",
-			"details": "https://github.com/guille/sublime-dart",
+			"name": "Kotlin-guille",
+			"details": "https://github.com/guille/sublime-kotlin",
 			"releases": [
 				{
 					"sublime_text": ">=4000",
