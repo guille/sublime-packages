@@ -23,16 +23,6 @@
 			]
 		},
 		{
-			"name": "GoToTest-guille",
-			"details": "https://github.com/guille/GoToTest",
-			"releases": [
-				{
-					"sublime_text": ">=4000",
-					"tags": true
-				}
-			]
-		},
-		{
 			"name": "Helm-guille",
 			"details": "https://github.com/guille/sublime-helm",
 			"releases": [
