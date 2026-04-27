@@ -41,6 +41,16 @@
 					"tags": true
 				}
 			]
+		},
+		{
+			"name": "Svelte-guille",
+			"details": "https://github.com/guille/sublime-svelte",
+			"releases": [
+				{
+					"sublime_text": ">=4000",
+					"tags": true
+				}
+			]
 		}
 	]
 }
