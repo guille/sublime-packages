@@ -3,6 +3,16 @@
 	"schema_version": "3.0.0",
 	"packages": [
 		{
+			"name": "A File Icon",
+			"details": "https://github.com/guille/AFileIcon",
+			"releases": [
+				{
+					"sublime_text": ">=4000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Dart-guille",
 			"details": "https://github.com/guille/sublime-dart",
 			"releases": [
