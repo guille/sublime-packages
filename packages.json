@@ -43,16 +43,6 @@
 			]
 		},
 		{
-			"name": "Kotlin-guille",
-			"details": "https://github.com/guille/sublime-kotlin",
-			"releases": [
-				{
-					"sublime_text": ">=4000",
-					"tags": true
-				}
-			]
-		},
-		{
 			"name": "Svelte-guille",
 			"details": "https://github.com/guille/sublime-svelte",
 			"releases": [
