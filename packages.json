@@ -51,6 +51,16 @@
 					"tags": true
 				}
 			]
+		},
+		{
+			"name": "YamlPipelines-guille",
+			"details": "https://github.com/guille/YamlPipelines",
+			"releases": [
+				{
+					"sublime_text": ">=4000",
+					"tags": true
+				}
+			]
 		}
 	]
 }
