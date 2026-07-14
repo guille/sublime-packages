@@ -13,6 +13,16 @@
 			]
 		},
 		{
+			"name": "Caddyfile",
+			"details": "https://github.com/guille/sublime-caddyfile",
+			"releases": [
+				{
+					"sublime_text": ">=4000",
+					"branch": "master"
+				}
+			]
+		},
+		{
 			"name": "Dart-guille",
 			"details": "https://github.com/guille/sublime-dart",
 			"releases": [
