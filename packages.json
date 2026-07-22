@@ -8,7 +8,7 @@
 			"releases": [
 				{
 					"sublime_text": ">=4000",
-					"tags": true
+					"branch": "master"
 				}
 			]
 		},
@@ -28,7 +28,7 @@
 			"releases": [
 				{
 					"sublime_text": ">=4000",
-					"tags": true
+					"branch": "master"
 				}
 			]
 		},
@@ -38,7 +38,7 @@
 			"releases": [
 				{
 					"sublime_text": ">=4000",
-					"tags": true
+					"branch": "master"
 				}
 			]
 		},
@@ -48,7 +48,7 @@
 			"releases": [
 				{
 					"sublime_text": ">=4000",
-					"tags": true
+					"branch": "master"
 				}
 			]
 		},
@@ -58,7 +58,7 @@
 			"releases": [
 				{
 					"sublime_text": ">=4000",
-					"tags": true
+					"branch": "master"
 				}
 			]
 		},
@@ -68,7 +68,7 @@
 			"releases": [
 				{
 					"sublime_text": ">=4000",
-					"tags": true
+					"branch": "master"
 				}
 			]
 		}
